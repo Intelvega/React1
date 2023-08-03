@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-shadow: border-box;
+}
+
+.App h2{
+  color: red;
+}
